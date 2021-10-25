@@ -1,10 +1,10 @@
-package com.scientia.rbt.elo;
+package com.example.plugin;
 
 import org.apache.cordova.*;
 import org.json.JSONArray;
 import org.json.JSONException;
 
-public class RBTElo extends CordovaPlugin {
+public class Hello extends CordovaPlugin {
 
     @Override
     public boolean execute(String action, JSONArray data, CallbackContext callbackContext) throws JSONException {
