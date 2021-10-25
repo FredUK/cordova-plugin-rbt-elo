@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-rbt-elo",
+  "version": "0.0.1a",
+  "description": "RBT Elo Panel Cordova Plugin",
+  "cordova": {
+    "id": "cordova-plugin-hello",
+    "platforms": [
+      "android"
+    ]
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredUK/cordova-plugin-rbt-elo.git"
+  },
+  "author": "Fred Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredUK/cordova-plugin-rbt-elo/issues"
+  },
+  "homepage": "https://github.com/FredUK/cordova-plugin-rbt-elo#readme"
+}
